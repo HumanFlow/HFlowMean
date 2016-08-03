@@ -1,0 +1,34 @@
+{
+  "name": "hflowapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanFlow/HFlowMean.git"
+  },
+  "keywords": [
+    "hflow",
+    "hrms"
+  ],
+  "author": "Vikas Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumanFlow/HFlowMean/issues"
+  },
+  "homepage": "https://github.com/HumanFlow/HFlowMean#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
